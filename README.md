@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Muhon
 
 <p aligh="left">
-  <p>Hey there, welcome!</br>
-  I'm Muhon </p>
+  <p>welcome!</br>
+  I am a self taught developer. I started coding to solve some problem in my company and i am in love with it </p>
 
 💡 I like to explore new trends and learn new technologies.\
 🔭 I’m currently working on my own business ArrowNet.\
